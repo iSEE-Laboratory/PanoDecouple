@@ -1,6 +1,6 @@
 ## Panorama Generation From NFoV Image Done Right. </sub>
 
-[Personal HomePage](https://zhengdian1.github.io)
+[Project Page](https://isee-laboratory.github.io/PanoDecouple/) | [Personal HomePage](https://zhengdian1.github.io)
 
 ### Updates
 [**2024.02.27**]  🎉🎉🎉 Our PanoDecouple paper was accepted by CVPR 2025 🎉🎉🎉 <br>
